@@ -1,8 +1,8 @@
   {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.0.2/patch-1.0.2.zip",
-  "checksum": "78adbe643b924bcf96343ab21040cd8a",
-  "fileSize": 13909368,
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.0.3/patch-1.0.3.zip",
+  "checksum": "74ada958b4933c92cce0edcf5805faa7",
+  "fileSize": 14287057,
   "isMandatory": true,
-  "releaseNotes": "Update Patch Version 1.0.2"
+  "releaseNotes": "Update Patch Version 1.0.3"
 }
