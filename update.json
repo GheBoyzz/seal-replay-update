@@ -15,7 +15,7 @@
       "version": "1.1.0",
       "fromVersion": "1.0.1",
       "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.0/patch-v1.0.2.zip",
-      "checksum": "7ef3379ccc486f70691df439789cdef9",
+      "checksum": "c253ae5160a4c17235e47002e392a33d",
       "fileSize": 22136706,
       "isMandatory": true,
       "releaseNotes": "Version 1.1.0:\n- Remove Skupi from NPC Street Merchant"
