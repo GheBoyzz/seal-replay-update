@@ -5,9 +5,9 @@
     {
       "version": "1.0.1",
       "fromVersion": "0.0.0",
-      "downloadUrl": "https://github.com/nikandro21/seal-online-update/releases/download/v1.0.1/patch-1.0.1.zip",
-      "checksum": "2bcca3a6c303160adee514097f8acdae",
-      "fileSize": 5838919,
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.0.1/patch-v1.0.1.zip",
+      "checksum": "7ef3379ccc486f70691df439789cdef9",
+      "fileSize": 14683543,
       "isMandatory": true,
       "releaseNotes": "Version 1.0.1"
     },
