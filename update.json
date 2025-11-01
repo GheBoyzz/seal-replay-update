@@ -23,11 +23,11 @@
     {
       "version": "1.1.1",
       "fromVersion": "1.1.0",
-      "downloadUrl": "https://github.com/nikandro21/seal-online-update/releases/download/v1.0.3/patch-1.0.3.zip",
-      "checksum": "dd56c687dbf848d2a095bb4e300abd37",
-      "fileSize": 3200022,
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.1/patch-v1.1.1.zip",
+      "checksum": "467925ae0ed7d4facb4c0d598706e452",
+      "fileSize": 1073537,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.3:\n- Pet system expansion\n- New items and equipment\n- Bug fixes"
+      "releaseNotes": "Version 1.0.3:\n- Change Boss Level to 300"
     },
   ]
 }
