@@ -12,17 +12,17 @@
       "releaseNotes": "Version 1.0.1"
     },
     {
-      "version": "1.0.2",
+      "version": "1.1.0",
       "fromVersion": "1.0.1",
-      "downloadUrl": "https://github.com/nikandro21/seal-online-update/releases/download/v1.0.2/patch-1.0.2.zip",
-      "checksum": "dd56c687dbf848d2a095bb4e300abd37",
-      "fileSize": 3200022,
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.0/patch-v1.0.2.zip",
+      "checksum": "7ef3379ccc486f70691df439789cdef9",
+      "fileSize": 22136706,
       "isMandatory": true,
-      "releaseNotes": "Version 1.0.2:\n- New maps and dungeons\n- Enhanced graphics engine\n- Guild system improvements"
+      "releaseNotes": "Version 1.1.0:\n- Remove Skupi from NPC Street Merchant"
     },
     {
-      "version": "1.0.3",
-      "fromVersion": "1.0.2",
+      "version": "1.1.1",
+      "fromVersion": "1.1.0",
       "downloadUrl": "https://github.com/nikandro21/seal-online-update/releases/download/v1.0.3/patch-1.0.3.zip",
       "checksum": "dd56c687dbf848d2a095bb4e300abd37",
       "fileSize": 3200022,
