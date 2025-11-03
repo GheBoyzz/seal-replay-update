@@ -41,11 +41,11 @@
     {
       "version": "1.1.4",
       "fromVersion": "1.1.2",
-      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.2/patch-v1.1.2.zip",
-      "checksum": "0c9b2d929517f3f612250ffa8e680227",
-      "fileSize": 3103,
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.4/patch-v1.1.4.zip",
+      "checksum": "604575c5aeb96a9d5412c9101b326dd3",
+      "fileSize": 25532021,
       "isMandatory": true,
-      "releaseNotes": "Version 1.1.2:\n- - Added Ransum Donate\n- - Added Manual G Bundle\n- - Decrease drop rate G13\n- - Increase drop rate Fame map BED\n- - Rebalance Skill periode 1"
+      "releaseNotes": "Version 1.1.4:\n- - Added Ransum Donate\n- - Added Manual G Bundle\n- - Decrease drop rate G13\n- - Increase drop rate Fame map BED\n- - Rebalance Skill periode 1"
     },
   ]
 }
