@@ -38,5 +38,14 @@
       "isMandatory": true,
       "releaseNotes": "Version 1.1.2:\n- Adding Titles"
     },
+    {
+      "version": "1.1.4",
+      "fromVersion": "1.1.2",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.2/patch-v1.1.2.zip",
+      "checksum": "0c9b2d929517f3f612250ffa8e680227",
+      "fileSize": 3103,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.1.2:\n- - Added Ransum Donate\n- - Added Manual G Bundle\n- - Decrease drop rate G13\n- - Increase drop rate Fame map BED\n- - Rebalance Skill periode 1"
+    },
   ]
 }
