@@ -54,7 +54,7 @@
       "checksum": "d99e7140e3ca416db99974da32886acf",
       "fileSize": 16756482,
       "isMandatory": true,
-      "releaseNotes": "Version 1.1.4:\n- - Added Ransum Donate\n- - Added Manual G Bundle\n- - Decrease drop rate G13\n- - Increase drop rate Fame map BED\n- - Rebalance Skill periode 1"
+      "releaseNotes": "Version 1.1.4:\n- Menambahkan Item Manual (G) Bundle\n- Mengubah Value Cegel drop dimap farm cegel (25k, 50k, 100k -> 150k, 250k, 350k)\n- Fix Harga Ident Pet\n- Up Rate Tempa dari +4 s/d +9\n- Mengurangi Syarat Fame Brick Hat (300k -> 75k)\n- Menaikan persentase Rate GMPG\n- Menambahin OPT HP/AP ke HTBS 16x/20x Archer/Gunner"
     },
   ]
 }
