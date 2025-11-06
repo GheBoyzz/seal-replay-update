@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.5",
+  "latestVersion": "1.1.6",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -55,6 +55,15 @@
       "fileSize": 16756482,
       "isMandatory": true,
       "releaseNotes": "Version 1.1.4:\n- Menambahkan Item Manual (G) Bundle\n- Mengubah Value Cegel drop dimap farm cegel (25k, 50k, 100k -> 150k, 250k, 350k)\n- Fix Harga Ident Pet\n- Up Rate Tempa dari +4 s/d +9\n- Mengurangi Syarat Fame Brick Hat (300k -> 75k)\n- Menaikan persentase Rate GMPG\n- Menambahin OPT HP/AP ke HTBS 16x/20x Archer/Gunner"
+    },
+    {
+      "version": "1.1.6",
+      "fromVersion": "1.1.5",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.6/patch-v1.1.6.zip",
+      "checksum": "a698a5d080199b9d7d07d0b1746d38d3",
+      "fileSize": 17831197,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.1.6:\n- Menambahkan OPT HP/AP ke Shield 16x/20x Renegade/Defender\n- Menghapus Item Anomali di Monster Marionette & Mini Bell \n- Meningkatkan Drop Rate CC di map Sealed Island Cave & Candy Town\n- Meningkatkan Drop Rate Fame Kupon di map BED\n- Fix HP World Boss\n- Fix Skill Deadly Poison Assassin sudah tidak 1 hit boss"
     },
   ]
 }
