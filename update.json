@@ -72,7 +72,7 @@
       "checksum": "ac52b12a865919660b94948389309454",
       "fileSize": 18476697,
       "isMandatory": true,
-      "releaseNotes": "Version 1.1.6:\n- Rebalancing Skill\n- Mengubah Status Arcane Orange ODI -> DDI, Yellow ODI -> HP\n- Menghapus Monster Anomali di Madelin\n- Mengubah tampilan error Elemental Suit HTBS DG dan XG\n- Meningkatkan persentase rate Evo Eagle/Salamander/Blue Eagle/Black Salamander ke FP/FD/FBP/FGW\n- Menambah jumlah monster dan Mengatur Koordinat Spawn Monster di map North Poibus\n- Meningkatkan persentase drop rate item quest di North Poibus\n- Fix Respawn Time Boss Blue Eye Dungeon dan Ice Castle yang tidak sesuai\n- Menambahkan Notif in-game Spawn/Kill Anastasis"
+      "releaseNotes": "Version 1.1.7:\n- Rebalancing Skill\n- Mengubah Status Arcane Orange ODI -> DDI, Yellow ODI -> HP\n- Menghapus Monster Anomali di Madelin\n- Mengubah tampilan error Elemental Suit HTBS DG dan XG\n- Meningkatkan persentase rate Evo Eagle/Salamander/Blue Eagle/Black Salamander ke FP/FD/FBP/FGW\n- Menambah jumlah monster dan Mengatur Koordinat Spawn Monster di map North Poibus\n- Meningkatkan persentase drop rate item quest di North Poibus\n- Fix Respawn Time Boss Blue Eye Dungeon dan Ice Castle yang tidak sesuai\n- Menambahkan Notif in-game Spawn/Kill Anastasis"
     },
   ]
 }
