@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.7",
+  "latestVersion": "1.1.8",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -73,6 +73,15 @@
       "fileSize": 18476697,
       "isMandatory": true,
       "releaseNotes": "Version 1.1.7:\n- Rebalancing Skill\n- Mengubah Status Arcane Orange ODI -> DDI, Yellow ODI -> HP\n- Menghapus Monster Anomali di Madelin\n- Mengubah tampilan error Elemental Suit HTBS DG dan XG\n- Meningkatkan persentase rate Evo Eagle/Salamander/Blue Eagle/Black Salamander ke FP/FD/FBP/FGW\n- Menambah jumlah monster dan Mengatur Koordinat Spawn Monster di map North Poibus\n- Meningkatkan persentase drop rate item quest di North Poibus\n- Fix Respawn Time Boss Blue Eye Dungeon dan Ice Castle yang tidak sesuai\n- Menambahkan Notif in-game Spawn/Kill Anastasis"
+    },
+    {
+      "version": "1.1.8",
+      "fromVersion": "1.1.7",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.8/patch-v1.1.8.zip",
+      "checksum": "38b5ab5d0e4d156b50ff89bdffd6aad2",
+      "fileSize": 17027350,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.1.8:\n- Perayaan Event Halloween\n- Menambahkan Ransum Khusus Event PVP"
     },
   ]
 }
