@@ -78,8 +78,8 @@
       "version": "1.1.8",
       "fromVersion": "1.1.7",
       "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.8/patch-v1.1.8.zip",
-      "checksum": "38b5ab5d0e4d156b50ff89bdffd6aad2",
-      "fileSize": 17027350,
+      "checksum": "1ec3a380e92531925ab13e204e10354f",
+      "fileSize": 17027296,
       "isMandatory": true,
       "releaseNotes": "Version 1.1.8:\n- Perayaan Event Halloween\n- Menambahkan Ransum Khusus Event PVP"
     },
