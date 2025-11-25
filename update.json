@@ -86,7 +86,7 @@
     {
       "version": "1.1.9",
       "fromVersion": "1.1.8",
-      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.8/patch-v1.1.8.zip",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.9/patch-v1.1.9.zip",
       "checksum": "bb7227bf943b75072029cc2272dfcd93",
       "fileSize": 45604804,
       "isMandatory": true,
