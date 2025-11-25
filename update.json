@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.8",
+  "latestVersion": "1.1.9",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -82,6 +82,15 @@
       "fileSize": 17027296,
       "isMandatory": true,
       "releaseNotes": "Version 1.1.8:\n- Perayaan Event Halloween\n- Menambahkan Ransum Khusus Event PVP"
+    },
+    {
+      "version": "1.1.9",
+      "fromVersion": "1.1.8",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.1.8/patch-v1.1.8.zip",
+      "checksum": "bb7227bf943b75072029cc2272dfcd93",
+      "fileSize": 45604804,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.1.9:\n- Rebalance Beberapa Skill\n- Fix IM Halloween Fantasy Costume EX, Spooky Mummy, Zombie Mummy yang ada durasi menjadi permanen\n- Fix IM Costume Donate yang masih tradeable menjadi untradeable\n- Fix beberapa drop monster yang masih ngaco\n- Fix Pet Warrior Piya yang seharusnya Pet Blood Sucking Bat \n- Menambahkan NPC Ransum Craftman\n- Menambahkan drop item timpukan eksklusif (Nokia 3310) pada seluruh monster di map Alcanez Dungeon (kecuali Boss)\n- Menambahkan drop item Buff Bell pada seluruh monster di map 7 Dimensi \n- Menambahkan jumlah monster di map 7 Dimensi (Black Orb, Red Fire, Blue Water, Green Wood)\n- New Exchange Acc Wing & Headgear (Dragon Wings & Lovely Fox Mask)\n- Peningkatan Harga GCK (2k -> 10k)\n- Peningkatan Harga AJB (10k -> 20k)\n- Mengubah Pita 2000 menjadi Pita 10000\n- Tampilan Loading Screen tema Halloween"
     },
   ]
 }
