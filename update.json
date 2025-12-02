@@ -101,5 +101,14 @@
       "isMandatory": true,
       "releaseNotes": "Version 1.2.0:\n- Perubahan Boss Alcanez\n- Penambahan item Bundle Adamantite & Orichalcum \n- Penurunan Harga GCK (10k -> 5k)"
     },
+    {
+      "version": "1.2.1",
+      "fromVersion": "1.2.0",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.2.1/patch-v1.2.1.zip",
+      "checksum": "12a8ff31195a94485165bb99680a93fc",
+      "fileSize": 18941781,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.2.1:\n- Event Halloween Berakhir\n- Update Golden Chest Desember\n- Penambahan drop item G16 di boss Tarantaros & Jikael\n- Meningkatkan drop rate item G16 di World Boss\n- Meningkatkan drop rate item Dragon's Tears & Flames di boss Alcanez\n- Mengubah drop Orichalcum menjadi bentuk Bundle pada World Boss\n- Perubahan map Elim spesial Natal"
+    },
   ]
 }
