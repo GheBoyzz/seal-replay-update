@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.1",
+  "latestVersion": "1.2.2",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -109,6 +109,15 @@
       "fileSize": 18941781,
       "isMandatory": true,
       "releaseNotes": "Version 1.2.1:\n- Event Halloween Berakhir\n- Update Golden Chest Desember\n- Penambahan drop item G16 di boss Tarantaros & Jikael\n- Meningkatkan drop rate item G16 di World Boss\n- Meningkatkan drop rate item Dragon's Tears & Flames di boss Alcanez\n- Mengubah drop Orichalcum menjadi bentuk Bundle pada World Boss\n- Perubahan map Elim spesial Natal"
+    },
+    {
+      "version": "1.2.2",
+      "fromVersion": "1.2.1",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.2.2/patch-v1.2.2.zip",
+      "checksum": "b7a3d608a60082332dab2c1663437bc2",
+      "fileSize": 16314841,
+      "isMandatory": true,
+      "releaseNotes": "Version 1.2.2:\n- Event Natal 10 Desember - 6 Januari 2026\n- Nerf all Boss\n- Menambahkan Rascal Rabbit Balloon ke Item Mall\n- Menambahkan Mandra Seed & Black Dragon Egg di Rascal O'Poly (Marble)"
     },
   ]
 }
