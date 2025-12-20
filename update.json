@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.2",
+  "latestVersion": "1.2.3",
   "requireSequentialUpdate": true,
   "versions": [
     {
@@ -118,6 +118,15 @@
       "fileSize": 16314841,
       "isMandatory": true,
       "releaseNotes": "Version 1.2.2:\n- Event Natal 10 Desember - 6 Januari 2026\n- Nerf all Boss\n- Menambahkan Rascal Rabbit Balloon ke Item Mall\n- Menambahkan Mandra Seed & Black Dragon Egg di Rascal O'Poly (Marble)"
+    },
+    {
+      "version": "1.2.3",
+      "fromVersion": "1.2.2",
+      "downloadUrl": "https://github.com/GheBoyzz/seal-replay-update/releases/download/v1.2.3/etc.zip",
+      "checksum": "a621bba947866040d482d126ad12054d",
+      "fileSize": 22158705,
+      "isMandatory": true,
+      "releaseNotes": "???"
     },
   ]
 }
